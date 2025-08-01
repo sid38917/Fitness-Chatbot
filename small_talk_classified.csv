@@ -1,0 +1,1041 @@
+Questions,Category
+"Hi", greeting
+"Hello",greeting
+"Hi there",greeting
+"Good morning",greeting
+"Good evening",greeting
+"Hey",greeting
+"Whatsup", greeting
+"Howdy",greeting
+"What's up?",greeting
+"How's it going?",greeting
+"Hi",greeting
+"Hello there!",greeting
+"Goodbye",farewell
+"Bye",farewell
+"See you later",farewell
+"Take care",farewell
+"Catch you later",farewell
+"Talk to you soon",farewell
+"Have a great day!",farewell
+"Good night",farewell
+"See you around",farewell
+"Later!",farewell
+"what is my name?", personal_interaction
+"what is my name?", personal_interaction
+"what is my name?", personal_interaction
+"what is my name?", personal_interaction
+"what is my name?", personal_interaction
+"what is my name?", personal_interaction
+"what is my name?", personal_interaction
+"what is my name?", personal_interaction
+"How are you?",personal_interaction
+"What's your name?",personal_interaction
+"Thank you",personal_interaction
+"You're welcome",personal_interaction
+"Nice to meet you",personal_interaction
+"Good to see you!",personal_interaction
+"Take care",personal_interaction
+"How's your day going?",personal_interaction
+"What's your favorite food?",personal_interaction
+"Do you have a hobby?",personal_interaction
+"Tell me a joke",casual_conversation
+"Do you like music?",casual_conversation
+"What’s your favorite color?",casual_conversation
+"Do you watch TV shows?",casual_conversation
+"Tell me something interesting",casual_conversation
+"Do you like sports?",casual_conversation
+"What's your favorite movie?",casual_conversation
+"Do you know any fun facts?",casual_conversation
+"What's the best vacation spot?",casual_conversation
+"Do you enjoy traveling?",casual_conversation
+"What time is it?",contextual_generic
+"What day is it today?",contextual_generic
+"What day is it today?",contextual_generic
+"What day is it today?",contextual_generic
+"What day is it today?",contextual_generic
+"What day is it today?",contextual_generic
+"What's the date?",contextual_generic
+"How’s the weather?",contextual_generic
+"What's happening?",contextual_generic
+"What's your favorite movie?",casual_conversation
+"Do you know any fun facts?",casual_conversation
+"What's the best vacation spot?",casual_conversation
+"Do you enjoy traveling?",casual_conversation
+"What's up?",contextual_generic
+"You're stupid",insults
+"Shut up",insults
+"You're useless",insults
+"I hate you",insults
+"You're dumb",insults
+"Go away",insults
+"You're an idiot",insults
+"You're annoying",insults
+"You don't know anything",insults
+"You're pathetic",insults
+"Hello!",greeting
+"Good morning!",greeting
+"Hi there, how are you?",greeting
+"Hey, nice to see you!",greeting
+"Goodbye, take care!",farewell
+"See you later!",farewell
+"Bye, have a nice day!",farewell
+"Catch you next time.",farewell
+"How have you been?",personal_interaction
+"How's your family doing?",personal_interaction
+"Tell me more about yourself.",personal_interaction
+"Do you have any hobbies?",personal_interaction
+"Did you watch any good movies recently?",casual_conversation
+"What do you think of the weather today?",casual_conversation
+"Have you read any good books lately?",casual_conversation
+"What's your favorite vacation spot?",casual_conversation
+"That's fascinating!",contextual_generic
+"I can relate to that.",contextual_generic
+"Interesting, tell me more.",contextual_generic
+"Really? That's surprising.",contextual_generic
+"You're so annoying!",insults
+"You're useless.",insults
+"I can't believe you'd say that.",insults
+"You're such an idiot.",insults
+"Go away!",insults
+"Hi!",greeting
+"Hey, what's up?",greeting
+"Good afternoon!",greeting
+"Hi there! Long time no see.",greeting
+"Take care!",farewell
+"See you around!",farewell
+"Bye! Talk to you soon.",farewell
+"Until next time, goodbye!",farewell
+"How's your week going so far?",personal_interaction
+"Have you been up to anything exciting lately?",personal_interaction
+"Are you enjoying your work?",personal_interaction
+"What are you passionate about?",personal_interaction
+"Do you like traveling?",casual_conversation
+"What's your favorite food?",casual_conversation
+"Do you watch any sports?",casual_conversation
+"What kind of music do you like?",casual_conversation
+"That's amazing, I didn't know that!",contextual_generic
+"I completely understand.",contextual_generic
+"Wow, really? That's incredible.",contextual_generic
+"Absolutely, I agree with you.",contextual_generic
+"You're an idiot.",insults
+"Shut the hell up!",insults
+"You're a complete moron.",insults
+"Go f**k yourself.",insults
+"You're a dumbass.",insults
+"Nobody cares about what you think.",insults
+"You're such a waste of space.",insults
+"Why don't you just shut up?",insults
+"You're pathetic.",insults
+"You're full of sh*t.",insults
+"Hello there!",greeting
+"Hey, how's it going?",greeting
+"Good evening!",greeting
+"Nice to meet you!",greeting
+"Goodbye, have a wonderful day!",farewell
+"See you tomorrow!",farewell
+"Later!",farewell
+"It was nice talking to you!",farewell
+"How's your day been?",personal_interaction
+"How are things going at home?",personal_interaction
+"What are your plans for the weekend?",personal_interaction
+"Are you feeling okay today?",personal_interaction
+"Did you see that recent TV show?",casual_conversation
+"What's your favorite kind of movie?",casual_conversation
+"Have you tried the new restaurant downtown?",casual_conversation
+"Isn't this weather crazy?",casual_conversation
+"That's quite interesting!",contextual_generic
+"I never thought of it that way.",contextual_generic
+"You're absolutely right.",contextual_generic
+"I hadn't considered that before.",contextual_generic
+"You're an a**hole.",insults
+"Nobody likes you.",insults
+"You talk too much.",insults
+"Get lost, loser.",insults
+"You're such a b**ch.",insults
+"Why are you always so f**king annoying?",insults
+"Can't you just shut your mouth?",insults
+"You're pathetic and nobody cares.",insults
+"F**k off!",insults
+"You're so full of crap.",insults
+"Howdy!",greeting
+"Hi, nice to meet you!",greeting
+"Hey there!",greeting
+"Good day!",greeting
+"Hi, how's everything?",greeting
+"See you soon!",farewell
+"Catch you later!",farewell
+"Have a good one!",farewell
+"Until we meet again!",farewell
+"It’s been great, take care!",farewell
+"How have things been for you lately?",personal_interaction
+"What's new in your life?",personal_interaction
+"Do you enjoy what you do?",personal_interaction
+"Are you happy with where you live?",personal_interaction
+"Have you been working on any projects recently?",personal_interaction
+"Did you catch the game last night?",casual_conversation
+"Have you heard about the new trend on social media?",casual_conversation
+"What's your favorite type of cuisine?",casual_conversation
+"What kind of hobbies do you have?",casual_conversation
+"Have you been to any interesting places lately?",casual_conversation
+"That’s quite insightful.",contextual_generic
+"That’s a good point, I hadn’t thought of that.",contextual_generic
+"I get where you're coming from.",contextual_generic
+"I appreciate you sharing that.",contextual_generic
+"Thanks for letting me know.",contextual_generic
+"You're just a piece of s**t.",insults
+"Nobody asked for your opinion.",insults
+"You're so damn clueless.",insults
+"Why don’t you f**k off somewhere else?",insults
+"Honestly, you're just a waste of time.",insults
+"You’re dumb as a rock.",insults
+"Why do you always say such stupid things?",insults
+"Do everyone a favor and shut up.",insults
+"You’re completely hopeless.",insults
+"You're such a pain in the a**.",insults
+"What's the deal with that smile?",contextual_generic
+"Could you give me some advice on that?",personal_interaction
+"Do you think it's better to rent or buy?",casual_conversation
+"What do you think of the new technology trends?",casual_conversation
+"What do you do",personal_interaction
+"What is your purpose",personal_interaction
+"What is your name",personal_interaction
+"How can you help me",personal_interaction
+"What do you do",personal_interaction
+"What is your purpose",personal_interaction
+"What is your name",personal_interaction
+"How can you help me",personal_interaction
+"What do you do",personal_interaction
+"What is your purpose",personal_interaction
+"What is your name",personal_interaction
+"How can you help me",personal_interaction
+"Isn't it amazing how quickly time flies?",contextual_generic
+"I think you’re overthinking this.",contextual_generic
+"What's your favorite way to relax?",casual_conversation
+"Have you traveled anywhere interesting this year?",personal_interaction
+"Are you working on anything exciting?",personal_interaction
+"Do you usually like to stay up late or wake up early?",personal_interaction
+"Have a good night!",farewell
+"Until next time!",farewell
+"Take it easy!",farewell
+"Don't let the door hit you on your way out.",insults
+"I can't even believe you think you're smart.",insults
+"You're a joke, seriously.",insults
+"Is there any reason why you're still here?",insults
+"Why are you always so dense?",insults
+"Honestly, talking to you is a waste of energy.",insults
+"Do you ever think before you speak?",insults
+"Are you always this much of an idiot?",insults
+"Even my pet dog makes more sense than you.",insults
+"Why do you always embarrass yourself?",insults
+"You're not as important as you think.",insults
+"You're always messing things up.",insults
+"Hey, how's it going?",greeting
+"Hi there, long time no see!",greeting
+"What's up?",greeting
+"Good to see you again!",greeting
+"Hiya!",greeting
+"See you around!",farewell
+"Take care and stay safe!",farewell
+"Bye for now!",farewell
+"Catch you on the flip side!",farewell
+"Have a fantastic day!",farewell
+"How have you been feeling lately?",personal_interaction
+"What's been keeping you busy these days?",personal_interaction
+"Do you like the neighborhood you live in?",personal_interaction
+"What's the most exciting thing that happened to you this week?",personal_interaction
+"Do you spend much time with your family?",personal_interaction
+"Did you watch that new series on Netflix?",casual_conversation
+"What's your opinion on the latest tech trends?",casual_conversation
+"Do you prefer summer or winter?",casual_conversation
+"Do you know any good places to eat around here?",casual_conversation
+"Have you tried the new cafe on Main Street?",casual_conversation
+"That's pretty interesting, I'd love to know more.",contextual_generic
+"I see what you mean.",contextual_generic
+"That makes a lot of sense.",contextual_generic
+"Thanks for sharing that with me.",contextual_generic
+"I'm always happy to hear your thoughts.",contextual_generic
+"Nobody cares about what you think.",insults
+"You're so full of it.",insults
+"Why don't you shut your trap?",insults
+"You're always screwing things up.",insults
+"You're such a pain in the neck.",insults
+"You're so damn annoying.",insults
+"I can't believe how stupid you are.",insults
+"Go away, nobody wants you here.",insults
+"You're such a loser.",insults
+"Nobody even likes you.",insults
+"What have you been up to lately?",personal_interaction
+"Are you interested in any new hobbies?",personal_interaction
+"Have you been traveling anywhere recently?",personal_interaction
+"What's your favorite kind of music?",casual_conversation
+"Do you follow any sports teams?",casual_conversation
+"That's exactly what I was thinking.",contextual_generic
+"I couldn't agree with you more.",contextual_generic
+"That's definitely something to think about.",contextual_generic
+"You're just a waste of space.",insults
+"I don't understand why you're even here.",insults
+"Shut your mouth before you embarrass yourself more.",insults
+"You're not even trying, are you?",insults
+"You're a complete idiot.",insults
+"You're such a f**king disappointment.",insults
+"Get out of my face.",insults
+"How do you always manage to be this stupid?",insults
+"I can't stand you.",insults
+"You're nothing but trouble.",insults
+"What have you been reading lately?",personal_interaction
+"Have you picked up any new skills recently?",personal_interaction
+"Are you planning any vacations soon?",personal_interaction
+"Did you hear about the new movie coming out?",casual_conversation
+"What's your favorite way to unwind?",casual_conversation
+"That's a very good point.",contextual_generic
+"I hadn't thought of it that way.",contextual_generic
+"Interesting perspective.",contextual_generic
+"Why are you such a f**king moron?",insults
+"Nobody wants your dumb opinion.",insults
+"You're the worst.",insults
+"Seriously, just f**k off.",insults
+"You’re not worth my time.",insults
+"You think you're smart, but you're not.",insults
+"You ruin everything.",insults
+"You're completely clueless.",insults
+"Do everyone a favor and disappear.",insults
+"You're just pathetic.",insults
+"Do you enjoy meeting new people?",personal_interaction
+"Have you always lived in the same city?",personal_interaction
+"What’s the most challenging thing you've done recently?",personal_interaction
+"Are you more of an indoor or outdoor person?",personal_interaction
+"Did you see that viral video?",casual_conversation
+"What's your favorite holiday destination?",casual_conversation
+"That’s a brilliant idea.",contextual_generic
+"I appreciate your honesty.",contextual_generic
+"I hadn't realized that before.",contextual_generic
+"You're such a piece of sh*t.",insults
+"I really don't know how anyone tolerates you.",insults
+"You’re literally the dumbest person I know.",insults
+"You should just quit.",insults
+"You're a pain in the a**.",insults
+"I have zero respect for you.",insults
+"You're so damn ignorant.",insults
+"You make everything worse.",insults
+"Why do you even bother?",insults
+"Everyone would be better off without you.",insults
+"Hey, how's your day going?",greeting
+"Good afternoon, how have you been?",greeting
+"Hi! What have you been up to lately?",greeting
+"Howdy, partner!",greeting
+"Greetings, my friend!",greeting
+"See you next time!",farewell
+"Hope to see you soon!",farewell
+"Until then, take it easy!",farewell
+"Stay safe, bye!",farewell
+"Have a nice one!",farewell
+"What's something good that happened to you today?",personal_interaction
+"Have you been learning anything new recently?",personal_interaction
+"How are you holding up with everything going on?",personal_interaction
+"What's your favorite memory?",personal_interaction
+"Is there something you've always wanted to do?",personal_interaction
+"Have you been binge-watching any shows recently?",casual_conversation
+"What's your favorite comfort food?",casual_conversation
+"Do you like listening to podcasts?",casual_conversation
+"What's the best concert you've been to?",casual_conversation
+"What's your go-to coffee order?",casual_conversation
+"That’s pretty cool, I hadn’t thought about it that way.",contextual_generic
+"I get what you’re saying, it makes sense.",contextual_generic
+"That's something I’d like to learn more about.",contextual_generic
+"Wow, I never knew that!",contextual_generic
+"I appreciate your point of view.",contextual_generic
+"You're a total dumbass.",insults
+"Why don’t you crawl back to where you came from?",insults
+"I swear you're the most useless person here.",insults
+"You're so f**king annoying.",insults
+"Everyone thinks you're an idiot.",insults
+"You’re absolutely worthless.",insults
+"Why do you even bother showing up?",insults
+"Do you realize how stupid you sound?",insults
+"You're a total failure.",insults
+"I really wish you’d just disappear.",insults
+"Is everything okay with you?",personal_interaction
+"Do you enjoy what you're doing these days?",personal_interaction
+"What motivates you to keep going?",personal_interaction
+"Have you been spending time outdoors?",personal_interaction
+"How do you like to relax after a busy day?",personal_interaction
+"What's your favorite sport?",casual_conversation
+"Have you been to any festivals recently?",casual_conversation
+"Do you have any pets?",casual_conversation
+"What's your ideal weekend plan?",casual_conversation
+"Do you like playing video games?",casual_conversation
+"Thanks for the insight, that really helps.",contextual_generic
+"That's quite a valuable perspective.",contextual_generic
+"I understand why you’d feel that way.",contextual_generic
+"That’s something to keep in mind.",contextual_generic
+"I hadn't really considered that.",contextual_generic
+"You're such a piece of garbage.",insults
+"No one even likes you, do you know that?",insults
+"You're f**king pathetic.",insults
+"Get the hell away from me.",insults
+"You ruin everything you touch.",insults
+"You're just a waste of air.",insults
+"Why are you even here? Nobody wants you.",insults
+"You're more clueless than I imagined.",insults
+"Everything you say is pure nonsense.",insults
+"I can't stand the sight of you.",insults
+"Have you read any interesting articles lately?",personal_interaction
+"What's something you've recently achieved?",personal_interaction
+"Is there any book that you think everyone should read?",personal_interaction
+"What's your go-to exercise?",personal_interaction
+"How are your friends doing?",personal_interaction
+"Have you heard any new music that you like?",casual_conversation
+"What's the most beautiful place you've been?",casual_conversation
+"Do you enjoy cooking?",casual_conversation
+"Do you have any collections?",casual_conversation
+"What's the funniest thing that happened to you recently?",casual_conversation
+"That’s quite reasonable, I see your point.",contextual_generic
+"I value your perspective on this.",contextual_generic
+"That's an excellent suggestion.",contextual_generic
+"That’s really thoughtful of you to say.",contextual_generic
+"You're honestly the dumbest person in the room.",insults
+"You're just full of hot air.",insults
+"I wish you'd keep your stupid ideas to yourself.",insults
+"Why are you such a screw-up?",insults
+"You’re just a waste of my time.",insults
+"You're so irritating, I can't stand you.",insults
+"You're like a child, so naive and clueless.",insults
+"Everything you do is just pathetic.",insults
+"You should seriously consider not talking.",insults
+"You bring nothing but negativity.",insults
+"Have you tried anything new lately?",personal_interaction
+"Do you prefer a quiet night in or a night out?",personal_interaction
+"What's your favorite place in the city?",personal_interaction
+"How's your work-life balance?",personal_interaction
+"Are you planning on taking any time off soon?",personal_interaction
+"Have you been to any good restaurants lately?",casual_conversation
+"What's your dream job?",casual_conversation
+"What's your favorite holiday?",casual_conversation
+"Do you believe in fate?",casual_conversation
+"What's your favorite thing to do on a rainy day?",casual_conversation
+"That’s really eye-opening, thanks for sharing.",contextual_generic
+"I agree, that makes a lot of sense.",contextual_generic
+"That's definitely worth considering.",contextual_generic
+"Why are you so dumb?",insults
+"I've never met someone as stupid as you.",insults
+"You're just a failure, plain and simple.",insults
+"Nobody gives a damn about you.",insults
+"You're a total embarrassment.",insults
+"You don't have a clue, do you?",insults
+"Do everyone a favor and shut your mouth.",insults
+"You're such a pain to deal with.",insults
+"You f**king suck.",insults
+"Honestly, it’d be better if you just stayed away.",insults
+"Hi, how are you doing today?",greeting
+"Hello, what's new?",greeting
+"Hey, how's everything?",greeting
+"Good to see you!",greeting
+"Hi, it's been a while!",greeting
+"Hope you have a great day ahead!",farewell
+"Take care, see you soon!",farewell
+"It was great catching up, goodbye!",farewell
+"Don't be a stranger!",farewell
+"Stay in touch!",farewell
+"How have you been managing work-life balance?",personal_interaction
+"Do you have any upcoming plans you're excited about?",personal_interaction
+"How are things at home?",personal_interaction
+"Are you taking care of yourself these days?",personal_interaction
+"What motivates you every day?",personal_interaction
+"Have you been watching anything good on TV?",casual_conversation
+"What do you usually do to unwind?",casual_conversation
+"Do you follow any interesting podcasts?",casual_conversation
+"What's your favorite kind of dessert?",casual_conversation
+"Do you keep up with any specific sports?",casual_conversation
+"That's quite an insightful point!",contextual_generic
+"I hadn't realized it until you pointed it out.",contextual_generic
+"Thanks for giving me a new perspective.",contextual_generic
+"I appreciate you clarifying that.",contextual_generic
+"You make a really good argument.",contextual_generic
+"You're such a f**king idiot.",insults
+"No one gives a sh*t about you.",insults
+"Honestly, just leave already.",insults
+"You’re more useless than I thought.",insults
+"You’re a complete waste of my time.",insults
+"Nobody respects you, and for good reason.",insults
+"You should feel embarrassed.",insults
+"Do you always say such dumb things?",insults
+"You're just a total joke.",insults
+"You add zero value here.",insults
+"Are you feeling overwhelmed by anything lately?",personal_interaction
+"Have you picked up any new hobbies?",personal_interaction
+"What are some good memories you've made recently?",personal_interaction
+"Is there anything you're currently looking forward to?",personal_interaction
+"What's your current favorite way to relax?",personal_interaction
+"Do you have any go-to shows you watch?",casual_conversation
+"Have you found any cool new places to eat?",casual_conversation
+"Do you ever go camping or hiking?",casual_conversation
+"What's a skill you’d love to learn?",casual_conversation
+"Do you enjoy gardening?",casual_conversation
+"That’s quite thought-provoking.",contextual_generic
+"I see why you would say that.",contextual_generic
+"That's a fair point, I can agree.",contextual_generic
+"I appreciate your honesty, it means a lot.",contextual_generic
+"That's certainly worth thinking about.",contextual_generic
+"You're just a complete fool.",insults
+"I can't believe you actually think that way.",insults
+"Do us all a favor and be quiet.",insults
+"Nobody cares what you have to say.",insults
+"You're just full of crap.",insults
+"You're honestly pathetic.",insults
+"You're nothing but trouble.",insults
+"Why are you still talking?",insults
+"You're a burden.",insults
+"I can't imagine anyone wanting to be around you.",insults
+"Are you currently working on any passion projects?",personal_interaction
+"How do you usually spend your weekends?",personal_interaction
+"What's one goal you're working towards right now?",personal_interaction
+"Is there anything exciting happening in your life?",personal_interaction
+"How's your health been lately?",personal_interaction
+"Did you catch that big game last night?",casual_conversation
+"Do you have a favorite book you keep going back to?",casual_conversation
+"What do you usually do to stay active?",casual_conversation
+"What's your dream travel destination?",casual_conversation
+"Are you a coffee or tea person?",casual_conversation
+"That's a really important insight, thanks.",contextual_generic
+"I never thought about it that way before.",contextual_generic
+"You make a strong case for that point.",contextual_generic
+"I can see why that makes sense to you.",contextual_generic
+"Why do you even exist?",insults
+"You're honestly such a burden on everyone.",insults
+"I can’t stand listening to you anymore.",insults
+"You should be ashamed of yourself.",insults
+"You're a waste of space.",insults
+"Everyone here thinks you're useless.",insults
+"Your stupidity is baffling.",insults
+"You're nothing but a disappointment.",insults
+"Everything you say is ridiculous.",insults
+"Nobody takes you seriously.",insults
+"What has been the highlight of your month?",personal_interaction
+"Do you find time to meditate or relax?",personal_interaction
+"How do you usually cope with stress?",personal_interaction
+"Have you caught up with old friends recently?",personal_interaction
+"What's the last movie that really moved you?",personal_interaction
+"Do you have any recommendations for things to do around here?",casual_conversation
+"What type of art do you enjoy most?",casual_conversation
+"What's a dish you love cooking?",casual_conversation
+"Have you been keeping up with the news?",casual_conversation
+"Do you like board games or card games?",casual_conversation
+"I really value your thoughts on this.",contextual_generic
+"That's definitely a perspective I should consider.",contextual_generic
+"That’s a valid concern, thank you.",contextual_generic
+"You're a joke, seriously.",insults
+"Nobody needs your useless opinions.",insults
+"I honestly can't handle your stupidity.",insults
+"Why are you always so clueless?",insults
+"You're like a broken record of nonsense.",insults
+"Why don't you just give up?",insults
+"Nobody respects anything you say.",insults
+"You're just pathetic, through and through.",insults
+"Everything you do is annoying.",insults
+"I can't believe anyone would listen to you.",insults
+"Hello, how's life treating you?",greeting
+"Hey! Long time no see!",greeting
+"Good morning, hope you're doing well.",greeting
+"Hi, nice to have you here!",greeting
+"Greetings, how’s everything going?",greeting
+"Bye now, take care of yourself!",farewell
+"See you, have a wonderful day!",farewell
+"Stay well, until next time!",farewell
+"Goodbye, it's been a pleasure!",farewell
+"Hope we meet again soon!",farewell
+"How do you like spending your weekends?",personal_interaction
+"Do you feel like you've grown a lot recently?",personal_interaction
+"What are you most passionate about?",personal_interaction
+"How's your mental health been lately?",personal_interaction
+"Have you found anything interesting lately?",personal_interaction
+"Do you have a favorite place you like to go to relax?",casual_conversation
+"What's the last great meal you had?",casual_conversation
+"Are there any podcasts you’ve been hooked on?",casual_conversation
+"Do you prefer watching TV series or movies?",casual_conversation
+"What's the coolest skill you know?",casual_conversation
+"I appreciate your perspective on that.",contextual_generic
+"That's a really good way of looking at it.",contextual_generic
+"That's certainly something I should think about.",contextual_generic
+"I’m glad you brought that up.",contextual_generic
+"That's very insightful, thank you.",contextual_generic
+"Nobody cares about what you say, you know that?",insults
+"You're just plain stupid.",insults
+"Do you ever stop being so annoying?",insults
+"You're a complete failure.",insults
+"Why don't you just disappear?",insults
+"Nobody wants you around here.",insults
+"You're useless and you know it.",insults
+"Your existence is pointless.",insults
+"Everything about you is annoying.",insults
+"You're a f**king idiot.",insults
+"Have you had any wins lately?",personal_interaction
+"What's something you've learned recently?",personal_interaction
+"Are you happy with your current routine?",personal_interaction
+"What do you enjoy doing during your free time?",personal_interaction
+"Have you been staying active lately?",personal_interaction
+"What's the best show you've seen recently?",casual_conversation
+"Do you have a favorite holiday tradition?",casual_conversation
+"What's the one thing you couldn't live without?",casual_conversation
+"Do you prefer the mountains or the beach?",casual_conversation
+"What's your favorite book genre?",casual_conversation
+"That’s an interesting take, I hadn't considered it.",contextual_generic
+"I can see why you might think that.",contextual_generic
+"That’s a perspective worth exploring.",contextual_generic
+"I really appreciate your input on this.",contextual_generic
+"That was really helpful, thank you.",contextual_generic
+"You're honestly the dumbest person here.",insults
+"I can't believe people even tolerate you.",insults
+"Do you ever think before you speak?",insults
+"You’re a complete embarrassment.",insults
+"Why do you even bother trying?",insults
+"You're a waste of everyone's time.",insults
+"I can't stand being around you.",insults
+"You're like a virus.",insults
+"You're a total trainwreck.",insults
+"You're full of sh*t and everyone knows it.",insults
+"What are you most grateful for?",personal_interaction
+"Do you enjoy spending time by yourself?",personal_interaction
+"What's your biggest accomplishment this year?",personal_interaction
+"Do you feel like you’re doing what you’re meant to do?",personal_interaction
+"How do you like to stay fit?",personal_interaction
+"Have you tried any new recipes recently?",casual_conversation
+"What's your ideal vacation destination?",casual_conversation
+"Do you follow any particular diet?",casual_conversation
+"Do you enjoy visiting art galleries?",casual_conversation
+"What's the funniest joke you've heard recently?",casual_conversation
+"That's a really good observation.",contextual_generic
+"I see where you're coming from.",contextual_generic
+"That’s something I’d like to explore further.",contextual_generic
+"Thanks for helping me understand that.",contextual_generic
+"You bring a really good perspective to this.",contextual_generic
+"Nobody cares about your opinion.",insults
+"You're just full of hot air.",insults
+"Seriously, just shut up.",insults
+"Why are you so damn ignorant?",insults
+"You're pathetic beyond words.",insults
+"You ruin everything you touch.",insults
+"You're so far below everyone else here.",insults
+"You're just a complete disaster.",insults
+"Why do you even try? You always fail.",insults
+"Everyone would be better off without you.",insults
+"Have you made any new friends lately?",personal_interaction
+"How do you usually handle stressful situations?",personal_interaction
+"Do you have any upcoming goals?",personal_interaction
+"Is there anything you're really proud of?",personal_interaction
+"What's the best advice you've ever received?",personal_interaction
+"Have you heard any good news recently?",casual_conversation
+"What's your favorite family tradition?",casual_conversation
+"Do you enjoy baking or cooking more?",casual_conversation
+"What's your all-time favorite movie?",casual_conversation
+"Do you like going to the theater?",casual_conversation
+"I really value your insight.",contextual_generic
+"I think you bring a fresh perspective to this.",contextual_generic
+"I appreciate your honesty, it’s refreshing.",contextual_generic
+"You’re just a piece of sh*t.",insults
+"You're the worst person I've ever met.",insults
+"You seriously think you matter?",insults
+"Everyone thinks you're a joke.",insults
+"You don't have any talent whatsoever.",insults
+"You're just sad and pathetic.",insults
+"I can't believe how dumb you are.",insults
+"You're nothing but a pain in the a**.",insults
+"Why are you still here?",insults
+"Nobody wants you around, just leave.",insults
+"Hey there! How have you been?",greeting
+"Hello, it's great to see you!",greeting
+"Hi there! What's been happening?",greeting
+"Hey! Glad to have you here.",greeting
+"Hi! How's your day treating you so far?",greeting
+"Take it easy, see you around!",farewell
+"Until next time, have a good one!",farewell
+"Hope to see you again soon, bye!",farewell
+"Later, take care of yourself!",farewell
+"Goodbye, wishing you the best!",farewell
+"How do you stay motivated each day?",personal_interaction
+"Are there any hobbies you've always wanted to try?",personal_interaction
+"Do you have any advice you'd give your past self?",personal_interaction
+"What makes you happiest these days?",personal_interaction
+"Is there something you've always wanted to learn?",personal_interaction
+"What's your favorite type of music?",casual_conversation
+"Do you enjoy watching live performances?",casual_conversation
+"Have you heard any good songs lately?",casual_conversation
+"What's the most memorable trip you've ever taken?",casual_conversation
+"Do you prefer coffee shops or parks?",casual_conversation
+"That's a very intriguing thought!",contextual_generic
+"I appreciate the different angle you've brought to this.",contextual_generic
+"I value that you took the time to share this.",contextual_generic
+"You've definitely given me something to think about.",contextual_generic
+"Thanks for pointing that out, it’s insightful.",contextual_generic
+"You are a f**king moron.",insults
+"I can't even look at you.",insults
+"Why do you always say such stupid things?",insults
+"You're a total idiot and everyone knows it.",insults
+"Nobody here respects you.",insults
+"You can't do anything right, can you?",insults
+"You're a complete disgrace.",insults
+"Nobody takes you seriously because you're a joke.",insults
+"Why do you even try? You'll just fail again.",insults
+"You bring nothing but negativity everywhere you go.",insults
+"What have you been doing for fun lately?",personal_interaction
+"Have you made any new discoveries about yourself?",personal_interaction
+"Do you think you've changed much over the years?",personal_interaction
+"Is there anything you're working towards right now?",personal_interaction
+"How's your current work situation treating you?",personal_interaction
+"What's the coolest place you've ever visited?",casual_conversation
+"Do you follow any particular sports league?",casual_conversation
+"What's your favorite dessert?",casual_conversation
+"Do you prefer cats or dogs?",casual_conversation
+"Have you ever tried meditation?",casual_conversation
+"I appreciate the clarity you provided.",contextual_generic
+"That’s an interesting perspective I hadn't thought of.",contextual_generic
+"You've made an excellent observation here.",contextual_generic
+"I think your input here is really helpful.",contextual_generic
+"Thanks for sharing, I find it quite enlightening.",contextual_generic
+"You're honestly a waste of space.",insults
+"No one even likes being around you.",insults
+"Do us all a favor and just leave.",insults
+"You always screw things up.",insults
+"Everything you do is pathetic.",insults
+"You’re such a pain to deal with.",insults
+"I don't know why anyone tolerates you.",insults
+"Nobody gives a damn about your opinion.",insults
+"You're so far beneath everyone else.",insults
+"You're worthless and everyone knows it.",insults
+"Have you tried any new foods lately?",personal_interaction
+"Do you have a favorite workout routine?",personal_interaction
+"What's one skill you really want to master?",personal_interaction
+"How do you deal with challenges?",personal_interaction
+"Is there anything you're currently saving up for?",personal_interaction
+"What's the most interesting thing you've read recently?",casual_conversation
+"Do you enjoy cooking or do you prefer eating out?",casual_conversation
+"What's a city you've always wanted to visit?",casual_conversation
+"Do you believe in second chances?",casual_conversation
+"What's your favorite thing about the summer?",casual_conversation
+"I can see where you're coming from with that.",contextual_generic
+"That's a good point that I hadn’t considered.",contextual_generic
+"I think you bring a lot of value to this discussion.",contextual_generic
+"That’s very insightful, thank you for explaining.",contextual_generic
+"You’re an absolute a**hole.",insults
+"Honestly, just f**k off.",insults
+"Why are you always such a dumbass?",insults
+"Everyone thinks you're an embarrassment.",insults
+"You're full of sh*t.",insults
+"I have zero respect for you.",insults
+"You're nothing but a headache.",insults
+"I don't know why anyone would take you seriously.",insults
+"Why do you always act like a child?",insults
+"You always manage to screw things up.",insults
+"How do you usually spend your evenings?",personal_interaction
+"Are you interested in taking any classes or workshops?",personal_interaction
+"Do you have any long-term projects?",personal_interaction
+"How are you keeping up with everything these days?",personal_interaction
+"What motivates you to keep pushing forward?",personal_interaction
+"Have you ever traveled internationally?",casual_conversation
+"Do you have any guilty pleasure TV shows?",casual_conversation
+"What's your favorite thing to do on a day off?",casual_conversation
+"Do you like spicy food?",casual_conversation
+"What's the most adventurous thing you've ever done?",casual_conversation
+"That's really eye-opening, thank you for that.",contextual_generic
+"I appreciate the honesty you bring to this discussion.",contextual_generic
+"You have a unique perspective that adds value.",contextual_generic
+"You’re a disgrace to everyone around you.",insults
+"I can't believe someone could be so clueless.",insults
+"Nobody takes you seriously because you're a joke.",insults
+"You're such a failure.",insults
+"You're f**king annoying.",insults
+"You're not even worth my time.",insults
+"You're so ignorant it’s painful.",insults
+"I can't even deal with your stupidity.",insults
+"You're a total idiot.",insults
+"Do everyone a favor and shut up.",insults
+"Hi! What's up with you today?",greeting
+"Hey, it’s been a while! How are you?",greeting
+"Good evening! How's your day going?",greeting
+"Hiya! What's happening?",greeting
+"Hello! How's your week so far?",greeting
+"Talk to you later, take care!",farewell
+"Have a good one, see you!",farewell
+"It was nice chatting, until next time!",farewell
+"See you when I see you!",farewell
+"All the best, bye!",farewell
+"What's something exciting you did recently?",personal_interaction
+"Have you been working on anything interesting lately?",personal_interaction
+"Is there something you’re looking forward to?",personal_interaction
+"Do you feel like you've learned anything new recently?",personal_interaction
+"How do you like to unwind after a stressful day?",personal_interaction
+"Did you see any good movies this month?",casual_conversation
+"Do you enjoy going out to concerts?",casual_conversation
+"What's your favorite type of exercise?",casual_conversation
+"Do you enjoy cooking, or do you prefer ordering in?",casual_conversation
+"What kind of books do you enjoy reading?",casual_conversation
+"That's an interesting take on it.",contextual_generic
+"I had never looked at it from that angle before.",contextual_generic
+"Thanks for explaining that, I understand better now.",contextual_generic
+"I value your thoughts on this.",contextual_generic
+"I think you’ve brought up an excellent point.",contextual_generic
+"You're an absolute moron, aren't you?",insults
+"Nobody wants you here, just leave.",insults
+"You're a complete waste of everyone's time.",insults
+"I can't believe how clueless you are.",insults
+"Why are you so damn annoying?",insults
+"Everyone thinks you’re pathetic.",insults
+"You're a total failure and you know it.",insults
+"You're always messing things up.",insults
+"Honestly, you're not even worth arguing with.",insults
+"I have no patience for your stupidity.",insults
+"Do you have any plans for the weekend?",personal_interaction
+"How are things with your family?",personal_interaction
+"What's your favorite way to relax after work?",personal_interaction
+"Do you find yourself busy these days?",personal_interaction
+"What's something positive that happened to you this week?",personal_interaction
+"Have you been keeping up with any series?",casual_conversation
+"What's the best meal you've cooked recently?",casual_conversation
+"Do you have any pets?",casual_conversation
+"What's your go-to snack?",casual_conversation
+"Do you enjoy traveling?",casual_conversation
+"I see what you mean, that makes sense.",contextual_generic
+"That's a good perspective, thanks for sharing.",contextual_generic
+"I hadn’t thought of it like that before.",contextual_generic
+"That's really useful information.",contextual_generic
+"Your insight is appreciated.",contextual_generic
+"You're so damn irritating.",insults
+"You seriously need to just stop.",insults
+"Nobody gives a sh*t about what you think.",insults
+"You're not even close to being smart.",insults
+"You're just a headache to deal with.",insults
+"Nobody respects anything you say.",insults
+"Why are you such a burden?",insults
+"You're always in the way.",insults
+"Your stupidity amazes me.",insults
+"Why do you always make things worse?",insults
+"What have you been up to lately?",personal_interaction
+"Do you like to keep a journal?",personal_interaction
+"How's your current project coming along?",personal_interaction
+"Do you feel like you’re achieving your goals?",personal_interaction
+"What's the most recent goal you've accomplished?",personal_interaction
+"Do you enjoy live theater performances?",casual_conversation
+"What's the best trip you've ever taken?",casual_conversation
+"Do you enjoy board games or card games?",casual_conversation
+"Do you have a favorite artist?",casual_conversation
+"What's your favorite TV show of all time?",casual_conversation
+"That's quite an insightful thought.",contextual_generic
+"You bring an interesting angle to the conversation.",contextual_generic
+"Thanks for your perspective.",contextual_generic
+"I appreciate the point you're making.",contextual_generic
+"You make a very valid argument.",contextual_generic
+"You're a complete waste of time.",insults
+"Nobody even likes talking to you.",insults
+"You're a pathetic excuse for a person.",insults
+"Why are you always this useless?",insults
+"You add absolutely no value.",insults
+"You're nothing but a problem.",insults
+"Honestly, just go away.",insults
+"Why do you have to be such an idiot?",insults
+"You're always dragging everyone down.",insults
+"You're not as important as you think.",insults
+"Have you had any new experiences lately?",personal_interaction
+"Do you have a favorite book you've read this year?",personal_interaction
+"How do you usually spend your mornings?",personal_interaction
+"Do you ever do any volunteer work?",personal_interaction
+"What's the most rewarding part of your day?",personal_interaction
+"Do you prefer watching movies at home or in a theater?",casual_conversation
+"What's your favorite thing about spring?",casual_conversation
+"Do you like working out in a gym or outdoors?",casual_conversation
+"Do you have any travel plans coming up?",casual_conversation
+"What's your favorite food to cook?",casual_conversation
+"That's a really thoughtful approach.",contextual_generic
+"I agree with a lot of what you said.",contextual_generic
+"You’ve given me something to think about.",contextual_generic
+"Your input is valuable, thank you.",contextual_generic
+"That's a great perspective, and I appreciate it.",contextual_generic
+"You’re honestly pathetic.",insults
+"You're a total loser.",insults
+"You've got nothing to offer.",insults
+"Nobody gives a damn about you.",insults
+"You’re always in the way.",insults
+"You're such a drain on everyone.",insults
+"I can't believe you’re this clueless.",insults
+"You're always causing problems.",insults
+"Everyone here is better off without you.",insults
+"You're just sad and useless.",insults
+"Have you been to any new restaurants recently?",casual_conversation
+"What's your favorite season of the year?",casual_conversation
+"Do you prefer reading books or watching movies?",casual_conversation
+"What's your favorite way to spend a lazy day?",casual_conversation
+"Have you tried any new recipes lately?",casual_conversation
+"Do you like trying out different cuisines?",casual_conversation
+"What's your favorite genre of music?",casual_conversation
+"Have you ever gone skydiving or done anything extreme?",casual_conversation
+"What's the most memorable concert you've attended?",casual_conversation
+"Do you like exploring new cities on foot or by car?",casual_conversation
+"Have you ever attended a festival?",casual_conversation
+"What's your favorite board game to play with friends?",casual_conversation
+"Do you have a favorite ice cream flavor?",casual_conversation
+"Do you prefer beaches or mountains for a vacation?",casual_conversation
+"Have you ever met someone famous?",casual_conversation
+"What's your favorite podcast to listen to?",casual_conversation
+"Do you like painting or drawing as a hobby?",casual_conversation
+"Have you watched any documentaries lately?",casual_conversation
+"Do you enjoy solving puzzles or riddles?",casual_conversation
+"What's the best piece of advice you've ever received?",casual_conversation
+"That’s definitely something to keep in mind.",contextual_generic
+"I see where you're coming from, and it makes sense.",contextual_generic
+"That's a unique way of looking at things.",contextual_generic
+"Thanks for bringing that up, it's important.",contextual_generic
+"I think you’ve got a point there.",contextual_generic
+"I appreciate your honesty about that.",contextual_generic
+"That's a perspective I hadn’t considered before.",contextual_generic
+"I understand your viewpoint, even if I hadn't thought of it myself.",contextual_generic
+"That's something worth considering for the future.",contextual_generic
+"I hadn't really thought about it that way.",contextual_generic
+"You bring a very different perspective, which is refreshing.",contextual_generic
+"That’s a fair point, I think I agree with you.",contextual_generic
+"I think what you’re saying is really insightful.",contextual_generic
+"Thanks for shedding some light on that.",contextual_generic
+"That's definitely an interesting angle.",contextual_generic
+"Your point of view adds value to the discussion.",contextual_generic
+"I can tell you've given this a lot of thought.",contextual_generic
+"That’s an observation I can appreciate.",contextual_generic
+"I think you've articulated that really well.",contextual_generic
+"You’ve raised a good question, something we should discuss further.",contextual_generic
+"What's something you’re proud of from this year?",personal_interaction
+"How do you like to stay active?",personal_interaction
+"Is there a project you're currently working on?",personal_interaction
+"Do you have any role models you look up to?",personal_interaction
+"How do you like to spend time with your friends?",personal_interaction
+"Are you someone who likes routine or spontaneity?",personal_interaction
+"What's one thing you want to achieve this year?",personal_interaction
+"Have you ever taken a course just for fun?",personal_interaction
+"Do you have any siblings? How do you get along with them?",personal_interaction
+"What's your favorite way to celebrate special occasions?",personal_interaction
+"How do you usually deal with stress?",personal_interaction
+"What's your favorite way to treat yourself after a tough day?",personal_interaction
+"Are there any skills you’d like to learn?",personal_interaction
+"How do you feel about public speaking?",personal_interaction
+"Do you believe in lifelong learning?",personal_interaction
+"How do you stay motivated during tough times?",personal_interaction
+"What's something you wish more people understood about you?",personal_interaction
+"How do you usually start your mornings?",personal_interaction
+"Is there a habit you've developed recently that you're proud of?",personal_interaction
+"What's the best compliment you've ever received?",personal_interaction
+"What's the most recent movie you watched?",casual_conversation
+"Do you like cooking or baking more?",casual_conversation
+"What's your favorite way to spend a rainy day?",casual_conversation
+"Do you have a favorite coffee shop?",casual_conversation
+"What's the last book you read that you couldn't put down?",casual_conversation
+"Have you ever taken up a new hobby just for fun?",casual_conversation
+"What's the best vacation you've ever been on?",casual_conversation
+"Do you have a favorite local restaurant?",casual_conversation
+"Are you into any sports?",casual_conversation
+"Do you prefer cats, dogs, or some other kind of pet?",casual_conversation
+"What's your favorite way to de-stress after a busy week?",casual_conversation
+"Do you enjoy traveling for adventure or relaxation?",casual_conversation
+"Have you ever met someone who really inspired you?",casual_conversation
+"Do you prefer watching movies alone or with friends?",casual_conversation
+"What's your favorite outdoor activity?",casual_conversation
+"Have you ever tried painting or drawing?",casual_conversation
+"Do you enjoy board games or card games more?",casual_conversation
+"What's the best concert you've ever attended?",casual_conversation
+"Are you a morning person or a night owl?",casual_conversation
+"What's the one food you could eat every day?",casual_conversation
+"That's definitely worth thinking more about.",contextual_generic
+"I see your point, and I can understand that perspective.",contextual_generic
+"Thanks for sharing that, it’s very interesting.",contextual_generic
+"I hadn’t looked at it that way before, but it makes sense.",contextual_generic
+"You've really given me a new perspective to consider.",contextual_generic
+"I can see how that could be important.",contextual_generic
+"I value your thoughts on this matter.",contextual_generic
+"That’s something I hadn’t thought of, but it makes a lot of sense.",contextual_generic
+"I completely understand where you're coming from.",contextual_generic
+"That’s a valid point, I think it’s worth discussing more.",contextual_generic
+"Thanks for adding that insight, it helps complete the picture.",contextual_generic
+"I never realized that before; I appreciate you pointing it out.",contextual_generic
+"You always bring interesting thoughts to the conversation.",contextual_generic
+"I appreciate your perspective—it’s refreshing.",contextual_generic
+"That's something to take into account moving forward.",contextual_generic
+"I see what you’re saying, and I agree it’s important.",contextual_generic
+"That's a good observation; it makes sense now.",contextual_generic
+"I appreciate how you explained that; it really adds context.",contextual_generic
+"Thanks for elaborating on that; I hadn’t thought about it in detail before.",contextual_generic
+"You’ve made a great contribution to the discussion.",contextual_generic
+"What’s a goal you're working on right now?",personal_interaction
+"Do you prefer spending time indoors or outdoors?",personal_interaction
+"How do you stay positive during difficult times?",personal_interaction
+"Is there a place you feel most at peace?",personal_interaction
+"What's something you've recently done that made you happy?",personal_interaction
+"Do you have a favorite childhood memory?",personal_interaction
+"How do you usually spend your weekends?",personal_interaction
+"What's one thing you've learned this year?",personal_interaction
+"Do you enjoy meeting new people?",personal_interaction
+"What's something that motivates you each day?",personal_interaction
+"Do you like making plans, or do you prefer being spontaneous?",personal_interaction
+"How do you handle stressful situations?",personal_interaction
+"Is there something you've always wanted to learn but haven’t yet?",personal_interaction
+"Who has been the most influential person in your life?",personal_interaction
+"Do you enjoy keeping a journal or diary?",personal_interaction
+"How do you balance work and personal life?",personal_interaction
+"Do you believe in setting new year resolutions?",personal_interaction
+"Have you ever helped someone in a way that made you proud?",personal_interaction
+"Do you like taking part in group activities?",personal_interaction
+"What’s your favorite part of your daily routine?",personal_interaction
+"Do you enjoy gardening or taking care of plants?",casual_conversation
+"Have you heard any interesting news lately?",casual_conversation
+"What's your favorite movie from your childhood?",casual_conversation
+"Do you like listening to music while working?",casual_conversation
+"What's your favorite breakfast food?",casual_conversation
+"Do you enjoy visiting museums or galleries?",casual_conversation
+"What's the most beautiful place you've ever seen?",casual_conversation
+"Do you like playing video games?",casual_conversation
+"What's a good show you've binge-watched lately?",casual_conversation
+"Do you enjoy stargazing or looking at the night sky?",casual_conversation
+"Have you ever gone on a spontaneous road trip?",casual_conversation
+"Do you like spicy food?",casual_conversation
+"What's your favorite holiday?",casual_conversation
+"Do you enjoy DIY projects?",casual_conversation
+"What's a hobby you've always wanted to try?",casual_conversation
+"Are you into any craft activities?",casual_conversation
+"What's the last thing that made you laugh?",casual_conversation
+"Do you enjoy hiking or spending time in nature?",casual_conversation
+"What's your favorite comfort food?",casual_conversation
+"Do you like spending time by the beach?",casual_conversation
+That's a really good point, I hadn't considered that before.",contextual_generic
+"I appreciate you sharing that perspective.",contextual_generic
+"That’s definitely something we should think more about.",contextual_generic
+"I understand what you're saying.",contextual_generic
+"You bring up a really important aspect of this.",contextual_generic
+"I think that’s a fair observation.",contextual_generic
+"Thanks for explaining that; it helps me understand better.",contextual_generic
+"That's an interesting perspective; I think it adds a lot to the conversation.",contextual_generic
+"I hadn’t thought of it from that angle before.",contextual_generic
+"That makes a lot of sense now that you've explained it.",contextual_generic
+"I really appreciate your input.",contextual_generic
+"You’ve definitely given me something to reflect on.",contextual_generic
+"Thanks for providing such a clear explanation.",contextual_generic
+"That's a valid point; it's definitely worth considering.",contextual_generic
+"I can see how that could be important to take into account.",contextual_generic
+"I think that idea has some real merit.",contextual_generic
+"That's a really thoughtful way of looking at it.",contextual_generic
+"I can understand why you'd feel that way.",contextual_generic
+"That’s an observation that resonates with me.",contextual_generic
+"Your insight really helps bring a different perspective.",contextual_generic
+"Do you prefer mornings or evenings?",personal_interaction
+"What's one habit you've been trying to develop?",personal_interaction
+"Is there a specific place that always makes you feel happy?",personal_interaction
+"Do you think you've changed a lot in the past few years?",personal_interaction
+"How do you like to spend time with your family?",personal_interaction
+"What's something you're really passionate about?",personal_interaction
+"Do you enjoy learning new things just for fun?",personal_interaction
+"How do you usually celebrate your achievements?",personal_interaction
+"Is there anything you're currently grateful for?",personal_interaction
+"What's one piece of advice you'd give to your younger self?",personal_interaction
+"Do you find it easy to make new friends?",personal_interaction
+"How do you stay organized in your daily life?",personal_interaction
+"What's the most rewarding part of your job?",personal_interaction
+"Are you working on any personal goals this month?",personal_interaction
+"Do you have a favorite way to relax after a long day?",personal_interaction
+"What's something you've recently challenged yourself to do?",personal_interaction
+"Is there anyone you look up to?",personal_interaction
+"What's your idea of a perfect weekend?",personal_interaction
+"Do you prefer working alone or as part of a team?",personal_interaction
+"What's your go-to way to cheer yourself up when you're feeling down?",personal_interaction
