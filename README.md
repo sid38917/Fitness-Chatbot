@@ -18,6 +18,7 @@
 - Plan selection and purchase tracking
 - Interactive conversational flow via terminal
 
+
 ## Requirements
 
 - Python 3.9+
@@ -26,6 +27,20 @@
   pandas
   scikit-learn
   nltk
+
+## Setup 
+
+1. Clone the repository 
+- git clone Fitness-Chatbot
+
+2. Install Dependencies
+- pip install -r requirements.txt
+
+3. Download required nltk data
+- nltk.download('punkt')
+- nltk.download('wordnet')
+
+
 
 ## Running
 
